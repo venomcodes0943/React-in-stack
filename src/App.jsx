@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      
+      <h1 className='mx-auto text-2xl'>Welcome</h1>
     </>
   )
 }
